@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\APIProjects\\NZWalks-Solution\\NZWalks.UI\\NZWalks.UI.csproj",
+      "projectUniqueName": "F:\\APIProjects\\Repository\\NZWalks-Solution\\NZWalks.UI\\NZWalks.UI.csproj",
       "projectName": "NZWalks.UI",
-      "projectPath": "F:\\APIProjects\\NZWalks-Solution\\NZWalks.UI\\NZWalks.UI.csproj",
+      "projectPath": "F:\\APIProjects\\Repository\\NZWalks-Solution\\NZWalks.UI\\NZWalks.UI.csproj",
       "packagesPath": "C:\\Users\\daksh\\.nuget\\packages\\",
-      "outputPath": "F:\\APIProjects\\NZWalks-Solution\\NZWalks.UI\\obj\\",
+      "outputPath": "F:\\APIProjects\\Repository\\NZWalks-Solution\\NZWalks.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
